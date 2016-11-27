@@ -7,6 +7,7 @@ suitable for reading by tmix-ns
   * bytes to send (if 0, send a FIN)
 
  EXAMPLES:
+ 
   > 826             I   0    0    826
   t 534             A   0    534  1213
   < 1213            A   872  0    0
